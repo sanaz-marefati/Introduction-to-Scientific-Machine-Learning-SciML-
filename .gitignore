@@ -1,0 +1,6 @@
+exe1_old
+exe3 copy
+*.log
+data/
+exe3_hw1
+.DS_Store
