@@ -4,3 +4,15 @@ exe3 copy
 data/
 exe3_hw1
 .DS_Store
+.tex
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.toc
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
